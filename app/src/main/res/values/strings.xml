@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Trabalho_P1</string>
+
+    <string name="limpar">Limpar</string>
+    <string name="acessar">Acessar</string>
+    <string name="bem_vindo_ao_sistema_de_estudos_sided">Bem vindo ao sistema de estudos - SIDED</string>
+
+
+    <string-array name="listaCurso">
+        <item>Análise de sistemas</item>
+        <item>Economia</item>
+        <item>Direito</item>
+        <item>Administrção</item>
+        <item>Ciências Politicas</item>
+        <item>Cíências contábeis</item>
+
+    </string-array>
+
+    <string-array name="listaAula">
+        <item>Desenvolvimento</item>
+        <item>Introdução a redes</item>
+        <item>LPI</item>
+        <item>LPII</item>
+        <item>LPIII</item>
+        <item>LPIV</item>
+        <item>LPV</item>
+        <item>Itil</item>
+
+    </string-array>
+
+
+
+</resources>
