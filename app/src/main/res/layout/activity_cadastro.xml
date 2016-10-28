@@ -72,7 +72,7 @@ android:paddingBottom="@dimen/activity_vertical_margin">
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Ok"
-            android:id="@+id/button3"
+            android:id="@+id/btnCadastroOk"
             android:layout_weight="1" />
 
         <Button
